@@ -19,6 +19,10 @@ The Interior Design Voice AI Agent system comprises:
 
 ---
 
+## Interior Design Voice Agent System Flow Diagram
+
+<img width="468" alt="Picture 1" src="https://github.com/user-attachments/assets/40a78eb1-94d5-454c-8a93-8d74cf24ea0a" />
+
 ## 🧠 Workflow Summary
 
 ### ▶️ Workflow 1: Outbound Call Launcher
@@ -97,4 +101,5 @@ This webhook-based workflow handles post-call processing.
 ---
 
 ## 🧱 Project Structure
+![Screenshot 2025-05-15 at 10 35 44 PM](https://github.com/user-attachments/assets/b3da3e24-d56b-4c95-aed7-0edaa59d3e71)
 
