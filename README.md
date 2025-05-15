@@ -1,7 +1,7 @@
 
 # 🏠 Interior Design Voice AI Agent — Ekam Apps Technical Assessment
 
-This project automates the qualification of interior design leads using voice AI agents, Airtable, and the n8n automation platform. It is designed as part of the Ekam Apps Technical Assessment (April 2025) and simulates a fully automated outbound voice call workflow that collects lead information and updates records based on real call results.
+This project automates the qualification of interior design leads using voice AI agents, Airtable, and the n8n automation platform. It simulates a fully automated outbound voice call workflow that collects lead information and updates records based on real call results.
 
 ---
 ## DEMO Video 
